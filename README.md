@@ -4,11 +4,11 @@ Welcome to my Data Science & AI repository!
 
 This repository contains my learning journey, practice programs, projects, datasets, and notebooks related to Data Science, Machine Learning, Artificial Intelligence, and Python.
 
-## 📌 About
+## About
 
 I am learning Data Science and AI by working on real-world datasets and building practical projects. This repository showcases my progress and the skills I am developing.
 
-## 🛠️ Technologies & Tools
+## Technologies & Tools
 
 - Python
 - NumPy
@@ -21,7 +21,7 @@ I am learning Data Science and AI by working on real-world datasets and building
 - Google Colab
 - Git & GitHub
 
-## 📂 Repository Structure
+## Repository Structure
 
 ```
 Data-Science-AI/
@@ -37,7 +37,7 @@ Data-Science-AI/
 │── README.md
 ```
 
-## 📚 Topics Covered
+## Topics Covered
 
 - Python Programming
 - Data Structures
@@ -52,7 +52,7 @@ Data-Science-AI/
 - Machine Learning
 - Artificial Intelligence
 
-## 🚀 Projects
+## Projects
 
 Some projects included in this repository:
 
@@ -63,7 +63,7 @@ Some projects included in this repository:
 - Machine Learning Models
 - AI Mini Projects
 
-## 🎯 Objectives
+## Objectives
 
 - Practice Data Science concepts
 - Build Machine Learning models
@@ -71,7 +71,7 @@ Some projects included in this repository:
 - Create portfolio-ready projects
 - Learn real-world data analysis
 
-## 📈 Future Plans
+## Future Plans
 
 - Deep Learning
 - NLP
@@ -82,11 +82,11 @@ Some projects included in this repository:
 - Generative AI
 - Deployment using Streamlit
 
-## 🤝 Contributions
+## Contributions
 
 Suggestions and feedback are always welcome!
 
-## 👩‍💻 Author
+##  Author
 
 **Sakshi Verma**
 
